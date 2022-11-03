@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ck112358
 - 👀 I’m interested in pentesting, smart contracts, and full stack development
 - 🌱 I’m currently learning javascript, Next.js, and solidity
-- 💞️ I’m looking to collaborate on chainlink hackathon projects
+- 💞️ I’m looking to collaborate on chainlink hackathon projects as a full stack dev, looking for anyone with video editing skills for the video submission
 - 📫 Contact me at ck112358@gmail.com
 
 <!---
