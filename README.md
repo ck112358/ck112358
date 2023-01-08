@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ck112358
-- 👀 I’m interested in pentesting, smart contracts, and full stack development
-- 🌱 I’m currently working in Python, Typescript, PineScript, Rust, and Solidity
-- 🦉 A+, Net+, Sec+, CysA+, Pentest+, SSCP, CCSP
+- 👀 I’m interested in pentesting web apps and smart contracts as well as full stack development
+- 🌱 I’m currently working in Python, Typescript, Rust, and Solidity
+- 🦉 A+, Net+, Sec+, CysA+, Pentest+, SSCP, CCSP; sights on CISSP, CHFI, CEH
 - 📫 Contact me via email
 
 <!---
