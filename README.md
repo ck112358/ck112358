@@ -1,4 +1,10 @@
- <p align=center
+ - 👋 Hi, I’m @ck112358
+- 👀 I’m interested in pentesting web apps and smart contracts as well as full stack development
+- 🌱 I’m currently working in Python, Typescript, Rust, and Solidity
+- 🦉 A+, Net+, Sec+, CysA+, Pentest+, SSCP, CCSP; sights on CISSP, CHFI, CEH
+- 📫 Contact me via email
+
+<p align=center
   <a href="https://twitter.com/intent/follow?screen_name=ck112358">
     <img src="https://img.shields.io/twitter/follow/ck112358?style=social" alt="Follow @ck112358" />
   
@@ -9,11 +15,7 @@
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Connect-red?style=flat&logo=youtube&logoColor=white">
 </a>
 </p>
-- 👋 Hi, I’m @ck112358
-- 👀 I’m interested in pentesting web apps and smart contracts as well as full stack development
-- 🌱 I’m currently working in Python, Typescript, Rust, and Solidity
-- 🦉 A+, Net+, Sec+, CysA+, Pentest+, SSCP, CCSP; sights on CISSP, CHFI, CEH
-- 📫 Contact me via email
+
  
 <!---
 ck112358/ck112358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
