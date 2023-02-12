@@ -7,11 +7,9 @@
 <p align=center
   <a href="https://twitter.com/intent/follow?screen_name=ck112358">
     <img src="https://img.shields.io/twitter/follow/ck112358?style=social" alt="Follow @ck112358" />
+  <a href="https://www.linkedin.com/in/cody-kennedy-500583188/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-0077B5?style=flat-square" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.linkedin.com/in/cody-kennedy-500583188/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin">
-</a>
-
 </p>
 <!---
 ck112358/ck112358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
