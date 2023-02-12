@@ -7,8 +7,9 @@
 <p align=center
   <a href="https://twitter.com/intent/follow?screen_name=ck112358">
     <img src="https://img.shields.io/twitter/follow/ck112358?style=social" alt="Follow @ck112358" />
-  <a href="https://www.linkedin.com/in/cody-kennedy-500583188/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-0077B5?style=flat-square" alt="LinkedIn Badge">
+  <a href="[https://www.linkedin.com/yourprofile"](https://www.linkedin.com/in/cody-kennedy-500583188/") target="_blank">
+    <img style="display:inline-block;vertical-align:middle;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" alt="LinkedIn logo">
+    <span style="display:inline-block;margin-left:10px;color:#0077B5;font-weight:bold;vertical-align:middle;">Connect with me on LinkedIn</span>
   </a>
 </p>
 <!---
