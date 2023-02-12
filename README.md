@@ -8,6 +8,10 @@
   <a href="https://twitter.com/intent/follow?screen_name=ck112358">
     <img src="https://img.shields.io/twitter/follow/ck112358?style=social" alt="Follow @ck112358" />
   </a>
+  <a href="https://www.linkedin.com/in/cody-kennedy-500583188/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin">
+</a>
+
 </p>
 <!---
 ck112358/ck112358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
