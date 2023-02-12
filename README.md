@@ -11,6 +11,11 @@
   <a href="https://www.linkedin.com/in/cody-kennedy-500583188/" target="_blank">
     <img alt="Connect with me on LinkedIn" src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue" />
   </a>
+<a href="https://www.youtube.com/channel/UCMpMc_jbgdmIkaf3etfkivg" target="_blank">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Connect-red?style=flat&logo=youtube&logoColor=white">
+</a>
+
+
 
   
 </p>
